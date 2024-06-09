@@ -35,4 +35,3 @@ public class EmployeeController {
         return service.getAll();
     }
 }
-
